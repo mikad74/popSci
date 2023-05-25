@@ -1,8 +1,24 @@
 import React from 'react'
 
-function Footer() {
+function Footer({setPage}) {
   return (
-    <div className="footer">This is the Footer</div>
+    <div className="footer">
+      <div className="footer-container">
+      <div className="menu">
+        <div className="about-btn button" onClick={() => setPage(1)}
+        >
+        About us
+        </div>
+        <div className="contact-btn button" onClick={() => setPage(2)}>
+          Contact
+        </div>
+      </div>
+        <div className="wimamitudbe">
+        wimamitudbe © 2023
+      </div>
+
+      </div>
+    </div>
   )
 }
 

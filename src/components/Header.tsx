@@ -1,8 +1,11 @@
 import React from 'react'
+import { ReactComponent as Logo } from "/public/wimamitudbe2.svg"
 
-function Header() {
+function Header({setPage}) {
   return (
-    <div className="header">This is a Header</div>
+    <div className="header button" onClick={() => setPage(0)}>
+      wimamitudbe
+    </div>
   )
 }
 
