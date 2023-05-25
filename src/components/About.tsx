@@ -11,7 +11,7 @@ function About() {
       <h5>William Bordonaro</h5>
       <p>21 year old Italian-Finnish Language Genius</p>
       <h5>Marta Sarić</h5>
-      <p>?? year old Bosnian badass</p>
+      <p>?? year old Balkan badass</p>
       <h5>Mika Doorenbosch</h5>
       <p>23 year old Dutch rocket scientist turned linguist</p>
       <h5>Tudora Rada</h5>
