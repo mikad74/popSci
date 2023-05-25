@@ -1,6 +1,4 @@
-import React from 'react'
-
-function Header({setPage}) {
+function Header({setPage}: {setPage: (n: number) => void;}) {
   return (
     <div className="header button" onClick={() => setPage(0)}>
       wimamitudbe

@@ -1,4 +1,4 @@
-function Footer({setPage}) {
+function Footer({setPage}: {setPage: (n: number) => void;}) {
   return (
     <div className="footer">
       <div className="footer-container">
