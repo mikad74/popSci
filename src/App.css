@@ -22,6 +22,9 @@
   font-size: 5rem;
   font-family: "Sacramento", cursive;
   margin-bottom: 3rem;
+  -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+  user-select: none; /* Standard syntax */
 }
 
 .header > svg {
@@ -65,7 +68,11 @@ img {
 .text h2 {
   text-align: justify;
   margin: 0;
-  margin-bottom: 0.75rem;
+}
+
+.text > .date{
+  color: grey;
+  margin-bottom: 1.25rem;
 }
 
 .writer-container {

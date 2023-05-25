@@ -6,6 +6,7 @@ function Content() {
       <div className="text">
         <img src={CoverImage} alt="cover image" id="cover"></img>
         <h2>Lorem Ipsum dolor sit amet</h2>
+        <p className="date">Friday, May 26, 2023</p>
         <p>
           Vehicula arcu morbi odio cubilia donec torquent est commodo nascetur
           malesuada feugiat dictum! Interdum venenatis erat tempor litora
