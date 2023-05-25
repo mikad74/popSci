@@ -1,5 +1,4 @@
 import React from 'react'
-import { ReactComponent as Logo } from "/public/wimamitudbe2.svg"
 
 function Header({setPage}) {
   return (

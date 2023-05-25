@@ -1,4 +1,3 @@
-import React from "react";
 import CoverImage from "/public/cover.jpg";
 
 function Content() {
