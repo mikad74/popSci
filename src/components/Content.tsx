@@ -29,7 +29,7 @@ function Content() {
           asking myself: “Is this a worldwide phenomenon and am I only finding
           out about this now?”
         </p>
-        <h5>Queerphobia and Colonialism</h5>
+        <h3>Queerphobia and Colonialism</h3>
         <p>
           While investigating this topic, we found roots of colonialism in
           queerphobia. Contrary to outdated beliefs of a civilising West,
@@ -63,7 +63,7 @@ function Content() {
           </a>
           .
         </p>
-        <h5>English as a Safe Space</h5>
+        <h3>English as a Safe Space</h3>
         <p>
           Queerphobic attitudes lead to a necessity for safe spaces. It’s been
           observed in
@@ -107,7 +107,7 @@ function Content() {
           is more natural and easier for me than using Mongolian because it
           gives me the freedom I have always been searching for”.
         </p>
-        <h5>Transnational Connections through English</h5>
+        <h3>Transnational Connections through English</h3>
         <p>
           Even outside of the virtual world, English is a tool for transnational
           connections. Among
@@ -136,7 +136,7 @@ function Content() {
           cosmopolitanism by enabling people to express their identities in a
           way that transcends regional linguistic and cultural boundaries.
         </p>
-        <h5>The English Queer Creole</h5>
+        <h3>The English Queer Creole</h3>
         <p>
           When LGBTQ+ people use English, they often exhibit creativity by
           either integrating it into their language or assigning novel meanings
@@ -182,7 +182,7 @@ function Content() {
           originating from the English words in adaptation with the Hebrew
           feminine ending.
         </p>
-        <h5>Conclusion</h5>
+        <h3>Conclusion</h3>
         <p>
           For historically marginalised communities such as the LGBTQ+ one,
           English has adapted in multiple ways as a gateway to authentic
