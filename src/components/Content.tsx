@@ -97,7 +97,7 @@ function Content() {
           Professor Dovchin to be an important component of the contemporary gay
           Mongolian identity. A participant in
           <a
-            href="https://onlinelibrary.wiley.com/doi/abs/10.1111/weng.12005"
+            href="https://onlinelibrary.wiley.com/doi/10.1111/weng.12445"
             target="_blank"
           >
             {" "}
@@ -107,7 +107,7 @@ function Content() {
           is more natural and easier for me than using Mongolian because it
           gives me the freedom I have always been searching for”.
         </p>
-        <h5>Transnational connections through English</h5>
+        <h5>Transnational Connections through English</h5>
         <p>
           Even outside of the virtual world, English is a tool for transnational
           connections. Among
@@ -177,6 +177,7 @@ function Content() {
           >
             {" "}
             in lesbian circles one is either “butch-eet” or “femme-eet”
+            {" "}
           </a>
           originating from the English words in adaptation with the Hebrew
           feminine ending.
