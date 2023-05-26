@@ -5,7 +5,7 @@ function Content() {
     <div className="content">
       <div className="text">
         <img src={CoverImage} alt="cover image" id="cover"></img>
-        <h2>English ... Gay?</h2>
+        <h2>Queer Linguistic Resilience: English as a Safe Space</h2>
         <p className="date">Friday, May 26, 2023</p>
         <p>
           Growing up in Italy as a queer person, I noticed that it was quite
@@ -18,21 +18,21 @@ function Content() {
           shared a spirit of international appreciation.
         </p>
         <p>
-          Then, when I was seventeen I moved to my other home country, Finland,
-          for a year-long exchange and what I now find interesting is that I
-          would speak Finnish with most of my Finnish-speaking friends, and
-          English with just a few: the queer ones.
+          During a year-long exchange in Finland when I was seventeen, I
+          observed that I would converse in Finnish with most of my
+          Finnish-speaking friends, reserving English for a few — again, the
+          queer ones.
         </p>
         <p>
-          Fast-forward to a month ago, while taking a sociolinguistics class, I
-          heard a gay coursemate from Turkey who mentioned the same experience
-          and I started asking myself: “Is this a worldwide phenomenon and am I
-          only finding out about this now?”
+          Fast-forward to a month ago, while taking a sociolinguistics class, a
+          gay coursemate from Turkey shared a similar experience and I started
+          asking myself: “Is this a worldwide phenomenon and am I only finding
+          out about this now?”
         </p>
         <h5>Queerphobia and Colonialism</h5>
         <p>
-          While investigating this topic, we found roots of queerphobia in
-          colonialism. Contrary to outdated beliefs of a civilising West,
+          While investigating this topic, we found roots of colonialism in
+          queerphobia. Contrary to outdated beliefs of a civilising West,
           colonialism has been proven to be damaging even in the case of queer
           freedoms, as mentioned by scholar
           <a
@@ -45,15 +45,15 @@ function Content() {
           . He observes that Thailand and Japan are the only East Asian
           countries where LGBTQ+ cultures developed in modern times and he
           relates it to the fact that they did not suffer direct colonisation.
-          The opposite is the case of Mongolia, which underwent Western
-          colonisation in the form of Soviet imperialism, preventing these
-          communities from sprouting.
+          In contrast, in the case of Mongolia, which underwent Western
+          colonisation through Soviet imperialism, these communities were
+          prevented from sprouting.
         </p>
         <p>
           Another example of queerphobia rooted in colonialism is found in Hong
           Kong, where homosexuality was criminalised by the British rulers. The
-          stigma persists to this day to the point that queerness is portrayed
-          as being contrary to
+          stigma persists today to the point that queerness is portrayed as
+          being contrary to
           <a
             href="https://onlinelibrary.wiley.com/doi/abs/10.1111/weng.12005"
             target="_blank"
@@ -87,14 +87,14 @@ function Content() {
             {" "}
             Israel{" "}
           </a>
-          where the local language(s) don’t allow escaping the gender binary due
-          to their grammar. In this case, English can be perceived as a safe
-          space due the fact that it allows for gender neutrality.
+          where local language(s) don’t allow escaping the gender binary due to
+          their grammatical constraints. In this case, English can be perceived
+          as a safe space since it allows for gender neutrality.
         </p>
         <p>
           On the other hand, Mongolia provides an interesting scenario, as the
-          importance of the use of English on Facebook is shown by associate
-          professor Dovchin to be an important component of the contemporary gay
+          importance of the use of English on Facebook is shown by Associate
+          Professor Dovchin to be an important component of the contemporary gay
           Mongolian identity. A participant in
           <a
             href="https://onlinelibrary.wiley.com/doi/abs/10.1111/weng.12005"
@@ -108,14 +108,11 @@ function Content() {
           gives me the freedom I have always been searching for”.
         </p>
         <p>
-          In addition, Dovchin pinpoints the form of English and
-          English-Mongolian code-switching as “translingual English”. Namely,
-          the way English is used in combination with other languages in online
-          linguistic practices, accompanied by certain (homonormative)
-          behaviours, exploring the way queer individuals navigate cultural and
-          linguistic boundaries online.
+          described the feeling of having found a safe space as “using English
+          is more natural and easier for me than using Mongolian because it
+          gives me the freedom I have always been searching for”.
         </p>
-        <h5>Transnational English</h5>
+        <h5>Transnational connections through English</h5>
         <p>
           Even outside of the virtual world, English is a tool for transnational
           connections. Among
@@ -146,9 +143,9 @@ function Content() {
         </p>
         <h5>The English Queer Creole</h5>
         <p>
-          When LGBTQ+ people use English, they show creativity by either
-          integrating it into their language or assigning novel meanings to
-          existing words. An example of the former is
+          When LGBTQ+ people use English, they often exhibit creativity by
+          either integrating it into their language or assigning novel meanings
+          to existing words. An example of the former is
           <a
             href="https://onlinelibrary.wiley.com/doi/10.1111/weng.12445"
             target="_blank"
@@ -178,7 +175,7 @@ function Content() {
           As another example, within Israel's LGBTQ+ culture, there is a process
           of creolisation involving the blending of gay English, vernacular
           Hebrew, and Arabic, resulting in the creation of a unique local lingo
-          that often retains the Hebrew grammar. For instance,
+          that often retains the Hebrew grammatical features. For instance,
           <a
             href="https://books.google.nl/books?hl=en&lr=&id=lbMUxRiQO6sC&oi=fnd&pg=PA105&dq=moriel+israel+disco&ots=oj6Gqb6Hun&sig=zBl_76aEXmDoJoG7Jq-u8YlnZ3M&redir_esc=y#v=onepage&q=moriel%20israel%20disco&f=false"
             target="_blank"
@@ -186,10 +183,18 @@ function Content() {
             {" "}
             in lesbian circles one is either “butch-eet” or “femme-eet”
           </a>
-          originating from the Hebrew feminine ending.
+          originating from the English words in adaptation with the Hebrew
+          feminine ending.
         </p>
         <h5>Conclusion</h5>
-        <p>Everybody is gay.</p>
+        <p>
+          For historically marginalised communities such as the LGBTQ+ one,
+          English has adapted in multiple ways as a gateway to authentic
+          expressions of queer identities. Queer cultures across the world, with
+          their own unique characters, have found diverse ways to address the
+          need for linguistic safe spaces, showing agency and creativity in
+          their struggle for liberation.
+        </p>
       </div>
       <div className="writer-container">
         <div className="writer-title">Written by:</div>
