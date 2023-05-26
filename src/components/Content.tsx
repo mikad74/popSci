@@ -5,151 +5,191 @@ function Content() {
     <div className="content">
       <div className="text">
         <img src={CoverImage} alt="cover image" id="cover"></img>
-        <h2>Lorem Ipsum dolor sit amet</h2>
+        <h2>English ... Gay?</h2>
         <p className="date">Friday, May 26, 2023</p>
         <p>
-          Vehicula arcu morbi odio cubilia donec torquent est commodo nascetur
-          malesuada feugiat dictum! Interdum venenatis erat tempor litora
-          sollicitudin nisl praesent justo eu. Vestibulum sit eros blandit odio
-          praesent turpis? Dapibus taciti velit netus quisque nascetur etiam
-          iaculis vulputate quis. Mauris fringilla tristique tortor. Mollis
-          fermentum, lobortis nam id pulvinar tellus viverra montes platea
-          condimentum mollis. Pulvinar, torquent molestie etiam! Urna fermentum
-          luctus nulla quisque etiam ipsum. Tellus tellus nisi placerat viverra
-          feugiat. Dictumst vel ornare laoreet habitant nec eget. Venenatis
-          justo nam quisque, himenaeos torquent vel? Faucibus vitae, magnis
-          laoreet venenatis cursus. Lorem ligula fusce dolor sed cras. Aenean
-          erat placerat interdum luctus malesuada integer laoreet sodales congue
-          libero. Est ultrices curabitur auctor placerat ut per facilisi sociis
-          nibh commodo viverra vestibulum? Mauris condimentum dictumst sem purus
-          ullamcorper eu accumsan luctus imperdiet inceptos, pellentesque
-          scelerisque? Diam ultricies duis dui. Ac suscipit natoque tempor enim
-          nec. Potenti tincidunt sem augue. Malesuada bibendum pharetra blandit
-          enim. Malesuada semper accumsan vivamus dictum vehicula leo magnis
-          sollicitudin lacus iaculis! Purus consequat hendrerit consectetur.
-          Dignissim libero maecenas vivamus sem montes aliquam lobortis augue
-          elit. Arcu integer pretium consequat posuere fames sapien?
+          Growing up in Italy as a queer person, I noticed that it was quite
+          common for me to use English or Italian-English code-switching with
+          other Italian LGBTQ+ peers. This is striking when you discover that
+          English is not commonly spoken as a second language, even by the
+          younger generations. This would happen at school or in my free time,
+          without me paying too much attention to the fact that I would only use
+          English with queer people; in fact I just used to think that we all
+          shared a spirit of international appreciation.
         </p>
         <p>
-          Nam neque ad nunc at primis sodales conubia id euismod eu purus
-          sociis. Purus viverra augue sollicitudin hac phasellus odio. Bibendum
-          sit proin magnis sollicitudin blandit nascetur magna montes congue.
-          Netus taciti nullam dictumst nostra lobortis consectetur facilisis.
-          Felis praesent nisl conubia vitae himenaeos potenti lorem tempus
-          auctor. Nostra tristique sociosqu sapien enim. Pulvinar ante
-          ullamcorper gravida rutrum.
+          Then, when I was seventeen I moved to my other home country, Finland,
+          for a year-long exchange and what I now find interesting is that I
+          would speak Finnish with most of my Finnish-speaking friends, and
+          English with just a few: the queer ones.
         </p>
         <p>
-          A erat dapibus dis erat suspendisse metus. Cras pellentesque, eros
-          ipsum dui magnis? Donec sagittis in lorem pulvinar dolor cum.
-          Suspendisse egestas senectus torquent laoreet eget massa pretium
-          litora euismod habitasse. Placerat hac magnis lobortis. Tortor elit
-          ipsum dapibus sociis auctor parturient eget feugiat, euismod libero.
-          Turpis enim ut lacinia senectus sagittis.
+          Fast-forward to a month ago, while taking a sociolinguistics class, I
+          heard a gay coursemate from Turkey who mentioned the same experience
+          and I started asking myself: “Is this a worldwide phenomenon and am I
+          only finding out about this now?”
+        </p>
+        <h5>Queerphobia and Colonialism</h5>
+        <p>
+          While investigating this topic, we found roots of queerphobia in
+          colonialism. Contrary to outdated beliefs of a civilising West,
+          colonialism has been proven to be damaging even in the case of queer
+          freedoms, as mentioned by scholar
+          <a
+            href="https://www.cairn.info/revue-autrepart-2009-1-page-15.htm"
+            target="_blank"
+          >
+            {" "}
+            Peter Jackson
+          </a>
+          . He observes that Thailand and Japan are the only East Asian
+          countries where LGBTQ+ cultures developed in modern times and he
+          relates it to the fact that they did not suffer direct colonisation.
+          The opposite is the case of Mongolia, which underwent Western
+          colonisation in the form of Soviet imperialism, preventing these
+          communities from sprouting.
         </p>
         <p>
-          Nascetur porta sagittis habitant rhoncus augue dictum habitasse.
-          Scelerisque porta quis gravida dictum nullam purus. Dapibus
-          scelerisque pulvinar iaculis! Sem accumsan tempor hendrerit, fermentum
-          nec hac hac est per. Lacinia himenaeos morbi hendrerit venenatis
-          vehicula, interdum ridiculus vel ut. Etiam neque convallis dapibus
-          quis aliquet. Nulla id diam aliquet interdum, risus parturient
-          vehicula donec! Tortor dictumst fusce sociosqu mus laoreet nullam mus
-          dolor lacinia auctor nulla suspendisse. Mi nulla ridiculus in praesent
-          sit vestibulum. Class dolor vivamus, urna lorem nec mi cursus sapien
-          nostra dictum interdum. Rhoncus in porta aenean mollis nibh metus
-          integer malesuada posuere orci. Urna cras eget, pulvinar parturient
-          fringilla dolor faucibus aptent adipiscing curabitur purus velit?
-          Fusce fermentum netus ante etiam accumsan vehicula accumsan eu enim
-          quis, dolor odio.
+          Another example of queerphobia rooted in colonialism is found in Hong
+          Kong, where homosexuality was criminalised by the British rulers. The
+          stigma persists to this day to the point that queerness is portrayed
+          as being contrary to
+          <a
+            href="https://onlinelibrary.wiley.com/doi/abs/10.1111/weng.12005"
+            target="_blank"
+          >
+            {" "}
+            ‘traditional Chinese values’
+          </a>
+          .
+        </p>
+        <h5>English as a Safe Space</h5>
+        <p>
+          Queerphobic attitudes lead to a necessity for safe spaces. It’s been
+          observed in
+          <a
+            href="https://www.press.uillinois.edu/books/?id=p071423"
+            target="_blank"
+          >
+            {" "}
+            several studies{" "}
+          </a>
+          that queer people tend to use English in order to build what we might
+          call a “linguistic safe space”.
         </p>
         <p>
-          Eros habitant, cubilia eleifend felis nunc proin dictum. Bibendum sem
-          ultrices vivamus torquent ornare scelerisque conubia vestibulum nisl.
-          Suscipit nulla semper tellus viverra nunc sed ante dapibus! Convallis
-          inceptos feugiat tempor venenatis lacus. Lobortis neque non lacus;
-          fermentum massa. Dictum aenean faucibus purus nam habitant! Malesuada
-          phasellus lacus eget. Bibendum nullam torquent fusce eros iaculis
-          volutpat turpis diam eleifend laoreet ante vulputate. Laoreet donec
-          proin integer sollicitudin amet. Duis sit pretium nec aliquam
-          convallis hac enim vulputate. Pharetra magnis curae; aenean et
-          suspendisse aptent volutpat nunc consectetur nunc aliquam. Dolor nunc
-          potenti, mus leo sociis cras dapibus dolor pretium. Sed venenatis
-          dignissim fringilla ipsum consequat dictum suscipit ridiculus
-          bibendum. Class quam donec, dictumst in! Quam potenti est placerat.
-          Senectus blandit ridiculus egestas parturient ornare ornare nascetur
-          ad habitasse!
+          The appropriation of English by queer communities involves countries
+          like
+          <a
+            href="https://books.google.nl/books?hl=en&lr=&id=lbMUxRiQO6sC&oi=fnd&pg=PA105&dq=moriel+israel+disco&ots=oj6Gqb6Hun&sig=zBl_76aEXmDoJoG7Jq-u8YlnZ3M&redir_esc=y#v=onepage&q=moriel%20israel%20disco&f=false"
+            target="_blank"
+          >
+            {" "}
+            Israel{" "}
+          </a>
+          where the local language(s) don’t allow escaping the gender binary due
+          to their grammar. In this case, English can be perceived as a safe
+          space due the fact that it allows for gender neutrality.
         </p>
         <p>
-          Nam eget laoreet ullamcorper arcu id id in torquent elit. Litora neque
-          potenti placerat hac, magna habitasse mollis adipiscing commodo nostra
-          suscipit. Platea consequat leo nam cubilia commodo duis ad netus et.
-          Felis ad nostra, ornare proin. Tristique senectus posuere quam risus
-          arcu vitae lacinia vel. Velit duis imperdiet arcu condimentum tempor
-          lorem dui faucibus varius imperdiet ligula magna. Potenti condimentum
-          massa fringilla penatibus montes curae;! Vulputate libero leo dis
-          fusce pulvinar rutrum dis sem. Turpis posuere, aliquet sollicitudin!
-          Nunc quis egestas duis imperdiet urna. Nibh at ad ligula sociosqu.
-          Metus, cursus at parturient. Sit magnis condimentum auctor aliquet
-          facilisi natoque iaculis cursus tellus est. Sollicitudin lacus
-          bibendum cubilia morbi. Nisi duis nam suscipit nec.
+          On the other hand, Mongolia provides an interesting scenario, as the
+          importance of the use of English on Facebook is shown by associate
+          professor Dovchin to be an important component of the contemporary gay
+          Mongolian identity. A participant in
+          <a
+            href="https://onlinelibrary.wiley.com/doi/abs/10.1111/weng.12005"
+            target="_blank"
+          >
+            {" "}
+            the study{" "}
+          </a>
+          described the feeling of having found a safe space as “using English
+          is more natural and easier for me than using Mongolian because it
+          gives me the freedom I have always been searching for”.
         </p>
         <p>
-          Nibh posuere malesuada mus volutpat lobortis taciti praesent vel
-          ridiculus sapien feugiat. Class nostra congue hac conubia mus sed ante
-          cursus litora volutpat. Orci fusce auctor iaculis mauris felis hac mus
-          sagittis hendrerit tellus iaculis. Ullamcorper id cum turpis. Nisl
-          volutpat integer est eleifend malesuada venenatis ipsum senectus
-          purus? Hendrerit sollicitudin consequat morbi. Nibh tempus sapien
-          nullam habitant sodales metus justo. Ut ridiculus vivamus porta
-          aliquam tempus pulvinar volutpat libero nibh. Per volutpat lectus
-          sagittis phasellus rhoncus vivamus ante vulputate habitant auctor
-          augue praesent. Inceptos nulla himenaeos senectus elementum sociosqu
-          sed cubilia senectus tristique.
+          In addition, Dovchin pinpoints the form of English and
+          English-Mongolian code-switching as “translingual English”. Namely,
+          the way English is used in combination with other languages in online
+          linguistic practices, accompanied by certain (homonormative)
+          behaviours, exploring the way queer individuals navigate cultural and
+          linguistic boundaries online.
+        </p>
+        <h5>Transnational English</h5>
+        <p>
+          Even outside of the virtual world, English is a tool for transnational
+          connections. Among
+          <a
+            href="https://books.google.nl/books?hl=en&lr=&id=lbMUxRiQO6sC&oi=fnd&pg=PA105&dq=moriel+israel+disco&ots=oj6Gqb6Hun&sig=zBl_76aEXmDoJoG7Jq-u8YlnZ3M&redir_esc=y#v=onepage&q=moriel%20israel%20disco&f=false"
+            target="_blank"
+          >
+            {" "}
+            queer Israelis
+          </a>
+          , English is thought of as a way to engage with like-minded people and
+          take part in a global conversation. Similarly, during the late 70s and
+          80s in Hong Kong, only a small proportion of the population spoke
+          English fluently, regarding it as the
+          <a
+            href="https://onlinelibrary.wiley.com/doi/abs/10.1111/weng.12005"
+            target="_blank"
+          >
+            {" "}
+            language of foreigners
+          </a>
+          . Thus, the reason to learn English for many LGBTQ+ people at the time
+          was mainly to provide a gateway to a more liberal Western culture and
+          finding a foreign partner in order to escape the restrictions of their
+          society. In other words, it allows for a sense of inclusion and
+          cosmopolitanism by enabling people to express their identities in a
+          way that transcends regional linguistic and cultural boundaries.
+        </p>
+        <h5>The English Queer Creole</h5>
+        <p>
+          When LGBTQ+ people use English, they show creativity by either
+          integrating it into their language or assigning novel meanings to
+          existing words. An example of the former is
+          <a
+            href="https://onlinelibrary.wiley.com/doi/10.1111/weng.12445"
+            target="_blank"
+          >
+            {" "}
+            the way gay Mongolian men use a word like “emotion”
+          </a>
+          , ‘cut’ it into “emo-” then add the suffix “-rood” (to become),
+          forming emorood, which means “to become extremely emotional”.
         </p>
         <p>
-          Vel sodales, ante id faucibus erat dictum. Magna orci libero laoreet
-          sit. Diam donec convallis sociis nisl suspendisse tristique purus est.
-          Lobortis sapien per est torquent. Sollicitudin curae; consectetur,
-          lacinia suscipit laoreet. Et condimentum dapibus ullamcorper mattis
-          vel hac augue aliquam cubilia pretium litora. Dignissim magna
-          condimentum maecenas phasellus primis! Dis taciti lacinia sagittis
-          mauris hac faucibus nunc fusce blandit accumsan. Mollis sed fames
-          dignissim mauris ipsum arcu diam rutrum. Phasellus quisque donec
-          scelerisque tempus tempor. Bibendum elit habitant mattis semper
-          aliquet suspendisse class ligula mattis. Eros convallis montes
-          quisque. Congue urna venenatis vulputate curae; at quis dapibus
-          faucibus semper orci quam senectus. Facilisis urna vulputate sagittis
-          consequat cursus hendrerit molestie elementum amet. Suspendisse
-          viverra urna luctus malesuada tortor velit ante. Cum dui nisi at
-          porta, neque et massa risus dis rhoncus adipiscing! Velit consequat
-          elit velit inceptos dapibus sem integer? Eu nibh lorem fringilla non
-          ut per. Dolor taciti conubia turpis eu mauris dui dictumst fames risus
-          erat nisi volutpat? Ligula eget habitasse litora viverra. Odio pretium
-          vestibulum fermentum. Erat lorem nisi, mus varius litora suspendisse
-          maecenas. Adipiscing himenaeos.
+          In the
+          <a
+            href="https://www.cairn.info/revue-autrepart-2009-1-page-15.htm"
+            target="_blank"
+          >
+            {" "}
+            Thai gay community
+          </a>
+          , queer concepts like “top” and “bottom” are expressed with English
+          words “(gay) king” and “(gay) queen”, in a way that is not
+          understandable by speakers of English. Likewise, the lesbian community
+          uses the words tom and dee, respectively from “tomboy” and “lady” to
+          express the pair “butch/femme”.
         </p>
         <p>
-          Himenaeos, sit massa lectus elementum? Condimentum ligula sit faucibus
-          dapibus? Dolor congue dictum cursus aenean rhoncus gravida metus nunc
-          est. Eu orci vulputate at turpis. Aenean at ante purus feugiat
-          penatibus enim scelerisque sollicitudin phasellus ultrices quis.
-          Hendrerit elementum justo libero aliquet scelerisque at dapibus aenean
-          vitae cursus lobortis. Nam enim quis ultrices congue cursus arcu nam
-          mattis! Nam, nisi at elementum hac purus integer ultricies lacus!
-          Purus maecenas libero velit neque praesent rhoncus per fringilla,
-          torquent lacinia sollicitudin. Hac, sapien natoque curabitur torquent
-          dapibus dictum nibh malesuada. Quis tempor ornare vehicula massa!
+          As another example, within Israel's LGBTQ+ culture, there is a process
+          of creolisation involving the blending of gay English, vernacular
+          Hebrew, and Arabic, resulting in the creation of a unique local lingo
+          that often retains the Hebrew grammar. For instance,
+          <a
+            href="https://books.google.nl/books?hl=en&lr=&id=lbMUxRiQO6sC&oi=fnd&pg=PA105&dq=moriel+israel+disco&ots=oj6Gqb6Hun&sig=zBl_76aEXmDoJoG7Jq-u8YlnZ3M&redir_esc=y#v=onepage&q=moriel%20israel%20disco&f=false"
+            target="_blank"
+          >
+            {" "}
+            in lesbian circles one is either “butch-eet” or “femme-eet”
+          </a>
+          originating from the Hebrew feminine ending.
         </p>
-        <p>
-          Lacus non turpis convallis. Nam senectus et sollicitudin magnis non
-          fusce eleifend nec. Faucibus integer maecenas tempus euismod conubia
-          himenaeos vitae lobortis ligula auctor tincidunt tempor. Ligula purus
-          molestie odio arcu facilisi. Varius phasellus diam tortor viverra.
-          Purus cubilia erat pellentesque porttitor leo hac magna auctor. Risus
-          netus dis ipsum magnis vel, malesuada tellus odio mattis erat
-          facilisi! Sollicitudin amet luctus vehicula.
-        </p>
+        <h5>Conclusion</h5>
+        <p>Everybody is gay.</p>
       </div>
       <div className="writer-container">
         <div className="writer-title">Written by:</div>

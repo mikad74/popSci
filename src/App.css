@@ -71,6 +71,10 @@ img {
   margin: 0;
 }
 
+.text p {
+  margin-bottom: 1rem;
+}
+
 .text > .date{
   color: grey;
   margin-bottom: 1.25rem;
@@ -93,7 +97,7 @@ img {
 
 .writer-card {
   height: 7rem;
-  width: 11rem;
+  width: 12rem;
   border: 1px solid lightgray;
   margin: 1rem 1rem 1rem 0;
   padding: 0.5rem;
@@ -101,7 +105,7 @@ img {
 
 .writer-card > .name {
   font-weight: 600;
-  font-size: 15pt;
+  font-size: 13pt;
 }
 
 .writer-card > .text {
