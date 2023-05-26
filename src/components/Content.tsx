@@ -107,11 +107,6 @@ function Content() {
           is more natural and easier for me than using Mongolian because it
           gives me the freedom I have always been searching for”.
         </p>
-        <p>
-          described the feeling of having found a safe space as “using English
-          is more natural and easier for me than using Mongolian because it
-          gives me the freedom I have always been searching for”.
-        </p>
         <h5>Transnational connections through English</h5>
         <p>
           Even outside of the virtual world, English is a tool for transnational
