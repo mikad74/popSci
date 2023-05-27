@@ -34,7 +34,7 @@ function Contact() {
         <li>
           Ben Chan: {" "}
           <a href="mailto: benjamin.chan@student.uva.nl">
-            ben.chan@student.uva.nl
+            benjamin.chan@student.uva.nl
           </a>
         </li>
       </ul>
